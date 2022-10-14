@@ -1,3 +1,28 @@
-h1{
-    color: rgb(131, 211, 243);
+body{
+    background: rgb(8, 8, 8);
+    color: white;
 }
+
+h1{
+    color: rgb(247, 247, 247);
+    font-size: 110%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+
+p{
+    text-align: justify;
+}
+
+.centro{
+    text-align: center;
+}
+
+.imagem{
+    margin-left: 100px;
+    width: 35%;
+   
+}
+
+

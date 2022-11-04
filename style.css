@@ -1,5 +1,5 @@
 body{
-    background: rgb(8, 8, 8);
+    background: rgb(99, 95, 95);
     color: white;
 }
 
@@ -20,9 +20,16 @@ p{
 }
 
 .imagem{
-    margin-left: 100px;
+    margin-left: 140px;
     width: 35%;
    
 }
+
+.JUSTIN{
+margin-left: 30%;
+}
+
+
+   
 
 
